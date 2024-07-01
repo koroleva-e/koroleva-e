@@ -1,7 +1,7 @@
-Hi there, I'm Ekaterina 👋
+Привет, меня зовут Екатерина 👋
+Я дата-аналитик
 
-- 📌 I'm currently working at Yandex
-- 🎯 My goals: ~~studying data analytics from scratch~~ doing something cool!
+Люблю аниме, wow и аккуратные таблички
 
 
 
