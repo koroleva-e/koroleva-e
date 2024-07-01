@@ -5,7 +5,7 @@ I'm Ekaterina, a dedicated data analyst with a passion for uncovering insights a
 Welcome to my GitHub profile!
 
 ---
-#### :hammer_and_wrench: Languages and Tools : 
+#### :hammer_and_wrench: Languages and Tools: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
